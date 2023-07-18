@@ -1,0 +1,25 @@
+.card-center{
+    background-color: #0dcaf0;
+    color: #bb2d3b ;
+    box-shadow: 0 0 8px 0.3px #ff6156 !important;
+}
+.card-center .text-muted{
+    /*--bs-text-opacity: 1;*/
+    /*color: #bf41ff !important;*/
+    color: white !important;
+}
+.btn-center{
+    background-color:yellow !important;
+    color: blue !important;
+}
+
+.shadow-sp{
+    border-radius:5px ;
+    box-shadow: 0 0 10px 2px #a6d2ff;
+}
+@media screen and (max-width: 576px) {
+    *{
+        /*font-size: .8rem;*/
+    }
+
+}
